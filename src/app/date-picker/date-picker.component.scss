@@ -1,0 +1,14 @@
+.native-date-picker {
+    padding: 8px 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    outline: none;
+    transition: border 0.2s ease-in-out;
+  }
+  
+  .native-date-picker:focus {
+    border-color: #1976d2;
+    box-shadow: 0 0 3px rgba(25, 118, 210, 0.5);
+  }
+  
